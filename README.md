@@ -30,14 +30,14 @@ Check the [demo](https://astro-chiri.netlify.app/) for more details.
 
    cd <your-repo-name>
 
-   pnpm install
+   npm run install
 
-   pnpm dev
+   npm run dev
    ```
 
 3. Edit `src/config.ts` and `src/content/about/about.md` to your liking.
 
-4. Use `pnpm new <title>` to create new posts, or add your posts to `src/content/posts`.
+4. Use `npm run new <title>` to create new posts, or add your posts to `src/content/posts`.
 
 5. Deploy to Netlify, Vercel, or other platforms, refer to [Astro Deployment Guides](https://docs.astro.build/en/guides/deploy/) for more details.
 
@@ -45,8 +45,8 @@ Check the [demo](https://astro-chiri.netlify.app/) for more details.
 
 ## Commands
 
-- `pnpm new <title>` - Create a new post (use `_title` for drafts)
-- `pnpm update-theme` - Update the theme to the latest version
+- `npm run new <title>` - Create a new post (use `_title` for drafts)
+- `npm run update-theme` - Update the theme to the latest version
 
 ## References
 
