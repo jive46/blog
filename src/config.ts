@@ -3,8 +3,8 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://astro-chiri.netlify.app/', // Site domain
-    title: 'Ian\'s Notebook', // Site title
+    website: 'https://jive46.github.io', // Site domain
+    title: "Ian's Notebook", // Site title
     author: 'Ian Chin', // Author name
     description: 'For sharing my travel experiences, coding use cases or useful bits of info', // Site description
     language: 'en-SG' // Default language
